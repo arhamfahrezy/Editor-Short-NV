@@ -1,0 +1,43 @@
+name: Render Video
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  render:
+    name: Render Remotion Video
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install System Dependencies for Chrome Headless
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon-x11-0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2 fonts-noto-color-emoji fonts-freefont-ttf
+
+      - name: Install NPM Dependencies
+        run: npm ci || npm install
+
+      - name: Render Video
+        run: |
+          mkdir -p out
+          npx remotion render MainComposition out/overgeared_new_short.mp4
+
+      - name: Upload Video Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: overgeared-new-short-video
+          path: out/overgeared_new_short.mp4
+          retention-days: 14
