@@ -1,0 +1,1047 @@
+{
+  "intro": {
+    "startSec": 0.0,
+    "endSec": 4.0,
+    "startFrame": 0,
+    "endFrame": 120,
+    "text": "APA JADINYA KALAU ORANG PALING AMPAS DI DUNIA NYATA TIBA-TIBA JADI"
+  },
+  "words": [
+    {
+      "word": "APA",
+      "start": 0.0,
+      "end": 0.36,
+      "startFrame": 0,
+      "endFrame": 11
+    },
+    {
+      "word": "JADINYA",
+      "start": 0.36,
+      "end": 0.73,
+      "startFrame": 11,
+      "endFrame": 22
+    },
+    {
+      "word": "KALAU",
+      "start": 0.73,
+      "end": 1.09,
+      "startFrame": 22,
+      "endFrame": 33
+    },
+    {
+      "word": "ORANG",
+      "start": 1.09,
+      "end": 1.45,
+      "startFrame": 33,
+      "endFrame": 44
+    },
+    {
+      "word": "PALING",
+      "start": 1.45,
+      "end": 1.82,
+      "startFrame": 44,
+      "endFrame": 55
+    },
+    {
+      "word": "AMPAS",
+      "start": 1.82,
+      "end": 2.18,
+      "startFrame": 55,
+      "endFrame": 65
+    },
+    {
+      "word": "DI",
+      "start": 2.18,
+      "end": 2.55,
+      "startFrame": 65,
+      "endFrame": 76
+    },
+    {
+      "word": "DUNIA",
+      "start": 2.55,
+      "end": 2.91,
+      "startFrame": 76,
+      "endFrame": 87
+    },
+    {
+      "word": "NYATA",
+      "start": 2.91,
+      "end": 3.27,
+      "startFrame": 87,
+      "endFrame": 98
+    },
+    {
+      "word": "TIBA-TIBA",
+      "start": 3.27,
+      "end": 3.64,
+      "startFrame": 98,
+      "endFrame": 109
+    },
+    {
+      "word": "JADI",
+      "start": 3.64,
+      "end": 4.0,
+      "startFrame": 109,
+      "endFrame": 120
+    },
+    {
+      "word": "PANDAI",
+      "start": 4.0,
+      "end": 4.32,
+      "startFrame": 120,
+      "endFrame": 130
+    },
+    {
+      "word": "BESI",
+      "start": 4.32,
+      "end": 4.64,
+      "startFrame": 130,
+      "endFrame": 139
+    },
+    {
+      "word": "TERKUAT",
+      "start": 4.64,
+      "end": 4.95,
+      "startFrame": 139,
+      "endFrame": 149
+    },
+    {
+      "word": "DI",
+      "start": 4.95,
+      "end": 5.27,
+      "startFrame": 149,
+      "endFrame": 158
+    },
+    {
+      "word": "GAME",
+      "start": 5.27,
+      "end": 5.59,
+      "startFrame": 158,
+      "endFrame": 168
+    },
+    {
+      "word": "VR",
+      "start": 5.59,
+      "end": 5.91,
+      "startFrame": 168,
+      "endFrame": 177
+    },
+    {
+      "word": "NYERITAIN",
+      "start": 5.91,
+      "end": 6.23,
+      "startFrame": 177,
+      "endFrame": 187
+    },
+    {
+      "word": "MC",
+      "start": 6.23,
+      "end": 6.55,
+      "startFrame": 187,
+      "endFrame": 196
+    },
+    {
+      "word": "KITA",
+      "start": 6.55,
+      "end": 6.86,
+      "startFrame": 196,
+      "endFrame": 206
+    },
+    {
+      "word": "SHIN",
+      "start": 6.86,
+      "end": 7.18,
+      "startFrame": 206,
+      "endFrame": 215
+    },
+    {
+      "word": "YOUNGWOO",
+      "start": 7.18,
+      "end": 7.5,
+      "startFrame": 215,
+      "endFrame": 225
+    },
+    {
+      "word": "YANG",
+      "start": 7.5,
+      "end": 7.94,
+      "startFrame": 225,
+      "endFrame": 238
+    },
+    {
+      "word": "HIDUPNYA",
+      "start": 7.94,
+      "end": 8.38,
+      "startFrame": 238,
+      "endFrame": 251
+    },
+    {
+      "word": "BENAR-BENAR",
+      "start": 8.38,
+      "end": 8.81,
+      "startFrame": 251,
+      "endFrame": 264
+    },
+    {
+      "word": "DIANGGAP",
+      "start": 8.81,
+      "end": 9.25,
+      "startFrame": 264,
+      "endFrame": 278
+    },
+    {
+      "word": "GAGAL",
+      "start": 9.25,
+      "end": 9.69,
+      "startFrame": 278,
+      "endFrame": 291
+    },
+    {
+      "word": "TAPI",
+      "start": 9.69,
+      "end": 10.12,
+      "startFrame": 291,
+      "endFrame": 304
+    },
+    {
+      "word": "NASIBNYA",
+      "start": 10.12,
+      "end": 10.56,
+      "startFrame": 304,
+      "endFrame": 317
+    },
+    {
+      "word": "BERUBAH",
+      "start": 10.56,
+      "end": 11.0,
+      "startFrame": 317,
+      "endFrame": 330
+    },
+    {
+      "word": "TOTAL",
+      "start": 11.0,
+      "end": 11.39,
+      "startFrame": 330,
+      "endFrame": 342
+    },
+    {
+      "word": "PAS",
+      "start": 11.39,
+      "end": 11.78,
+      "startFrame": 342,
+      "endFrame": 353
+    },
+    {
+      "word": "DIA",
+      "start": 11.78,
+      "end": 12.17,
+      "startFrame": 353,
+      "endFrame": 365
+    },
+    {
+      "word": "MAIN",
+      "start": 12.17,
+      "end": 12.56,
+      "startFrame": 365,
+      "endFrame": 377
+    },
+    {
+      "word": "GAME",
+      "start": 12.56,
+      "end": 12.94,
+      "startFrame": 377,
+      "endFrame": 388
+    },
+    {
+      "word": "VIRTUAL",
+      "start": 12.94,
+      "end": 13.33,
+      "startFrame": 388,
+      "endFrame": 400
+    },
+    {
+      "word": "REALITY",
+      "start": 13.33,
+      "end": 13.72,
+      "startFrame": 400,
+      "endFrame": 412
+    },
+    {
+      "word": "BERNAMA",
+      "start": 13.72,
+      "end": 14.11,
+      "startFrame": 412,
+      "endFrame": 423
+    },
+    {
+      "word": "SATISFY",
+      "start": 14.11,
+      "end": 14.5,
+      "startFrame": 423,
+      "endFrame": 435
+    },
+    {
+      "word": "DI",
+      "start": 14.5,
+      "end": 14.94,
+      "startFrame": 435,
+      "endFrame": 448
+    },
+    {
+      "word": "SANA",
+      "start": 14.94,
+      "end": 15.38,
+      "startFrame": 448,
+      "endFrame": 461
+    },
+    {
+      "word": "DIA",
+      "start": 15.38,
+      "end": 15.81,
+      "startFrame": 461,
+      "endFrame": 474
+    },
+    {
+      "word": "TANPA",
+      "start": 15.81,
+      "end": 16.25,
+      "startFrame": 474,
+      "endFrame": 488
+    },
+    {
+      "word": "SENGAJA",
+      "start": 16.25,
+      "end": 16.69,
+      "startFrame": 488,
+      "endFrame": 501
+    },
+    {
+      "word": "NEMUIN",
+      "start": 16.69,
+      "end": 17.12,
+      "startFrame": 501,
+      "endFrame": 514
+    },
+    {
+      "word": "BUKU",
+      "start": 17.12,
+      "end": 17.56,
+      "startFrame": 514,
+      "endFrame": 527
+    },
+    {
+      "word": "LEGENDARIS",
+      "start": 17.56,
+      "end": 18.0,
+      "startFrame": 527,
+      "endFrame": 540
+    },
+    {
+      "word": "DEWA",
+      "start": 18.0,
+      "end": 18.39,
+      "startFrame": 540,
+      "endFrame": 552
+    },
+    {
+      "word": "TENTANG",
+      "start": 18.39,
+      "end": 18.78,
+      "startFrame": 552,
+      "endFrame": 563
+    },
+    {
+      "word": "PEMBUATAN",
+      "start": 18.78,
+      "end": 19.17,
+      "startFrame": 563,
+      "endFrame": 575
+    },
+    {
+      "word": "SENJATA",
+      "start": 19.17,
+      "end": 19.56,
+      "startFrame": 575,
+      "endFrame": 587
+    },
+    {
+      "word": "GARA-GARA",
+      "start": 19.56,
+      "end": 19.94,
+      "startFrame": 587,
+      "endFrame": 598
+    },
+    {
+      "word": "BUKU",
+      "start": 19.94,
+      "end": 20.33,
+      "startFrame": 598,
+      "endFrame": 610
+    },
+    {
+      "word": "INI",
+      "start": 20.33,
+      "end": 20.72,
+      "startFrame": 610,
+      "endFrame": 622
+    },
+    {
+      "word": "PROFESINYA",
+      "start": 20.72,
+      "end": 21.11,
+      "startFrame": 622,
+      "endFrame": 633
+    },
+    {
+      "word": "BERUBAH",
+      "start": 21.11,
+      "end": 21.5,
+      "startFrame": 633,
+      "endFrame": 645
+    },
+    {
+      "word": "JADI",
+      "start": 21.5,
+      "end": 21.82,
+      "startFrame": 645,
+      "endFrame": 655
+    },
+    {
+      "word": "PANDAI",
+      "start": 21.82,
+      "end": 22.14,
+      "startFrame": 655,
+      "endFrame": 664
+    },
+    {
+      "word": "BESI",
+      "start": 22.14,
+      "end": 22.45,
+      "startFrame": 664,
+      "endFrame": 674
+    },
+    {
+      "word": "TAPI",
+      "start": 22.45,
+      "end": 22.77,
+      "startFrame": 674,
+      "endFrame": 683
+    },
+    {
+      "word": "JANGAN",
+      "start": 22.77,
+      "end": 23.09,
+      "startFrame": 683,
+      "endFrame": 693
+    },
+    {
+      "word": "SALAH",
+      "start": 23.09,
+      "end": 23.41,
+      "startFrame": 693,
+      "endFrame": 702
+    },
+    {
+      "word": "DIA",
+      "start": 23.41,
+      "end": 23.73,
+      "startFrame": 702,
+      "endFrame": 712
+    },
+    {
+      "word": "BUKAN",
+      "start": 23.73,
+      "end": 24.05,
+      "startFrame": 712,
+      "endFrame": 721
+    },
+    {
+      "word": "TUKANG",
+      "start": 24.05,
+      "end": 24.36,
+      "startFrame": 721,
+      "endFrame": 731
+    },
+    {
+      "word": "TEMPA",
+      "start": 24.36,
+      "end": 24.68,
+      "startFrame": 731,
+      "endFrame": 740
+    },
+    {
+      "word": "BIASA",
+      "start": 24.68,
+      "end": 25.0,
+      "startFrame": 740,
+      "endFrame": 750
+    },
+    {
+      "word": "DI",
+      "start": 25.0,
+      "end": 25.35,
+      "startFrame": 750,
+      "endFrame": 760
+    },
+    {
+      "word": "DUNIA",
+      "start": 25.35,
+      "end": 25.7,
+      "startFrame": 760,
+      "endFrame": 771
+    },
+    {
+      "word": "GAME",
+      "start": 25.7,
+      "end": 26.05,
+      "startFrame": 771,
+      "endFrame": 782
+    },
+    {
+      "word": "INI",
+      "start": 26.05,
+      "end": 26.4,
+      "startFrame": 782,
+      "endFrame": 792
+    },
+    {
+      "word": "MC",
+      "start": 26.4,
+      "end": 26.75,
+      "startFrame": 792,
+      "endFrame": 802
+    },
+    {
+      "word": "KITA",
+      "start": 26.75,
+      "end": 27.1,
+      "startFrame": 802,
+      "endFrame": 813
+    },
+    {
+      "word": "PAKAI",
+      "start": 27.1,
+      "end": 27.45,
+      "startFrame": 813,
+      "endFrame": 824
+    },
+    {
+      "word": "KECERDASANNYA",
+      "start": 27.45,
+      "end": 27.8,
+      "startFrame": 824,
+      "endFrame": 834
+    },
+    {
+      "word": "BUAT",
+      "start": 27.8,
+      "end": 28.15,
+      "startFrame": 834,
+      "endFrame": 845
+    },
+    {
+      "word": "NYIPTAIN",
+      "start": 28.15,
+      "end": 28.5,
+      "startFrame": 844,
+      "endFrame": 855
+    },
+    {
+      "word": "SENJATA-SENJATA",
+      "start": 28.5,
+      "end": 29.0,
+      "startFrame": 855,
+      "endFrame": 870
+    },
+    {
+      "word": "OVERPOWER",
+      "start": 29.0,
+      "end": 29.5,
+      "startFrame": 870,
+      "endFrame": 885
+    },
+    {
+      "word": "DARI",
+      "start": 29.5,
+      "end": 30.0,
+      "startFrame": 885,
+      "endFrame": 900
+    },
+    {
+      "word": "YANG",
+      "start": 30.0,
+      "end": 30.5,
+      "startFrame": 900,
+      "endFrame": 915
+    },
+    {
+      "word": "AWALNYA",
+      "start": 30.5,
+      "end": 31.0,
+      "startFrame": 915,
+      "endFrame": 930
+    },
+    {
+      "word": "CUMA",
+      "start": 31.0,
+      "end": 31.5,
+      "startFrame": 930,
+      "endFrame": 945
+    },
+    {
+      "word": "AMPAS",
+      "start": 31.5,
+      "end": 32.0,
+      "startFrame": 945,
+      "endFrame": 960
+    },
+    {
+      "word": "DAN",
+      "start": 32.0,
+      "end": 32.35,
+      "startFrame": 960,
+      "endFrame": 970
+    },
+    {
+      "word": "SERING",
+      "start": 32.35,
+      "end": 32.7,
+      "startFrame": 970,
+      "endFrame": 981
+    },
+    {
+      "word": "DIREMEHIN",
+      "start": 32.7,
+      "end": 33.05,
+      "startFrame": 981,
+      "endFrame": 992
+    },
+    {
+      "word": "DIA",
+      "start": 33.05,
+      "end": 33.4,
+      "startFrame": 991,
+      "endFrame": 1002
+    },
+    {
+      "word": "MULAI",
+      "start": 33.4,
+      "end": 33.75,
+      "startFrame": 1002,
+      "endFrame": 1012
+    },
+    {
+      "word": "MERANGKAK",
+      "start": 33.75,
+      "end": 34.1,
+      "startFrame": 1012,
+      "endFrame": 1023
+    },
+    {
+      "word": "NAIK",
+      "start": 34.1,
+      "end": 34.45,
+      "startFrame": 1023,
+      "endFrame": 1034
+    },
+    {
+      "word": "JADI",
+      "start": 34.45,
+      "end": 34.8,
+      "startFrame": 1034,
+      "endFrame": 1044
+    },
+    {
+      "word": "PLAYER",
+      "start": 34.8,
+      "end": 35.15,
+      "startFrame": 1044,
+      "endFrame": 1054
+    },
+    {
+      "word": "TERKUAT",
+      "start": 35.15,
+      "end": 35.5,
+      "startFrame": 1054,
+      "endFrame": 1065
+    },
+    {
+      "word": "PASTINYA",
+      "start": 35.5,
+      "end": 35.79,
+      "startFrame": 1065,
+      "endFrame": 1074
+    },
+    {
+      "word": "BANYAK",
+      "start": 35.79,
+      "end": 36.08,
+      "startFrame": 1074,
+      "endFrame": 1082
+    },
+    {
+      "word": "PLAYER",
+      "start": 36.08,
+      "end": 36.38,
+      "startFrame": 1082,
+      "endFrame": 1091
+    },
+    {
+      "word": "ELITE",
+      "start": 36.38,
+      "end": 36.67,
+      "startFrame": 1091,
+      "endFrame": 1100
+    },
+    {
+      "word": "YANG",
+      "start": 36.67,
+      "end": 36.96,
+      "startFrame": 1100,
+      "endFrame": 1109
+    },
+    {
+      "word": "IRI",
+      "start": 36.96,
+      "end": 37.25,
+      "startFrame": 1109,
+      "endFrame": 1118
+    },
+    {
+      "word": "DAN",
+      "start": 37.25,
+      "end": 37.54,
+      "startFrame": 1118,
+      "endFrame": 1126
+    },
+    {
+      "word": "NGAJAK",
+      "start": 37.54,
+      "end": 37.83,
+      "startFrame": 1126,
+      "endFrame": 1135
+    },
+    {
+      "word": "RIBUT",
+      "start": 37.83,
+      "end": 38.12,
+      "startFrame": 1135,
+      "endFrame": 1144
+    },
+    {
+      "word": "TAPI",
+      "start": 38.12,
+      "end": 38.42,
+      "startFrame": 1144,
+      "endFrame": 1152
+    },
+    {
+      "word": "DENGAN",
+      "start": 38.42,
+      "end": 38.71,
+      "startFrame": 1152,
+      "endFrame": 1161
+    },
+    {
+      "word": "SENJATA",
+      "start": 38.71,
+      "end": 39.0,
+      "startFrame": 1161,
+      "endFrame": 1170
+    },
+    {
+      "word": "SENJATA",
+      "start": 39.0,
+      "end": 39.39,
+      "startFrame": 1170,
+      "endFrame": 1182
+    },
+    {
+      "word": "GILA",
+      "start": 39.39,
+      "end": 39.78,
+      "startFrame": 1182,
+      "endFrame": 1193
+    },
+    {
+      "word": "BUATANNYA",
+      "start": 39.78,
+      "end": 40.17,
+      "startFrame": 1193,
+      "endFrame": 1205
+    },
+    {
+      "word": "SENDIRI",
+      "start": 40.17,
+      "end": 40.56,
+      "startFrame": 1205,
+      "endFrame": 1217
+    },
+    {
+      "word": "SHIN",
+      "start": 40.56,
+      "end": 40.94,
+      "startFrame": 1217,
+      "endFrame": 1228
+    },
+    {
+      "word": "BERHASIL",
+      "start": 40.94,
+      "end": 41.33,
+      "startFrame": 1228,
+      "endFrame": 1240
+    },
+    {
+      "word": "MEMBUAT",
+      "start": 41.33,
+      "end": 41.72,
+      "startFrame": 1240,
+      "endFrame": 1252
+    },
+    {
+      "word": "MEREKA",
+      "start": 41.72,
+      "end": 42.11,
+      "startFrame": 1252,
+      "endFrame": 1263
+    },
+    {
+      "word": "SEMUA",
+      "start": 42.11,
+      "end": 42.5,
+      "startFrame": 1263,
+      "endFrame": 1275
+    },
+    {
+      "word": "SAMBIL",
+      "start": 42.5,
+      "end": 42.89,
+      "startFrame": 1275,
+      "endFrame": 1287
+    },
+    {
+      "word": "TERUS",
+      "start": 42.89,
+      "end": 43.28,
+      "startFrame": 1287,
+      "endFrame": 1298
+    },
+    {
+      "word": "MEMBANGUN",
+      "start": 43.28,
+      "end": 43.67,
+      "startFrame": 1298,
+      "endFrame": 1310
+    },
+    {
+      "word": "REPUTASI",
+      "start": 43.67,
+      "end": 44.06,
+      "startFrame": 1310,
+      "endFrame": 1322
+    },
+    {
+      "word": "DIA",
+      "start": 44.06,
+      "end": 44.44,
+      "startFrame": 1322,
+      "endFrame": 1333
+    },
+    {
+      "word": "JUGA",
+      "start": 44.44,
+      "end": 44.83,
+      "startFrame": 1333,
+      "endFrame": 1345
+    },
+    {
+      "word": "MEMBENTUK",
+      "start": 44.83,
+      "end": 45.22,
+      "startFrame": 1345,
+      "endFrame": 1357
+    },
+    {
+      "word": "PERSAHABATAN",
+      "start": 45.22,
+      "end": 45.61,
+      "startFrame": 1357,
+      "endFrame": 1368
+    },
+    {
+      "word": "DAN",
+      "start": 45.61,
+      "end": 46.0,
+      "startFrame": 1368,
+      "endFrame": 1380
+    },
+    {
+      "word": "ALIANSI",
+      "start": 46.0,
+      "end": 46.35,
+      "startFrame": 1380,
+      "endFrame": 1390
+    },
+    {
+      "word": "YANG",
+      "start": 46.35,
+      "end": 46.7,
+      "startFrame": 1390,
+      "endFrame": 1401
+    },
+    {
+      "word": "SUPER",
+      "start": 46.7,
+      "end": 47.05,
+      "startFrame": 1401,
+      "endFrame": 1412
+    },
+    {
+      "word": "KUAT",
+      "start": 47.05,
+      "end": 47.4,
+      "startFrame": 1412,
+      "endFrame": 1422
+    },
+    {
+      "word": "INI",
+      "start": 47.4,
+      "end": 47.75,
+      "startFrame": 1422,
+      "endFrame": 1432
+    },
+    {
+      "word": "ADALAH",
+      "start": 47.75,
+      "end": 48.1,
+      "startFrame": 1432,
+      "endFrame": 1443
+    },
+    {
+      "word": "PETUALANGAN",
+      "start": 48.1,
+      "end": 48.45,
+      "startFrame": 1443,
+      "endFrame": 1454
+    },
+    {
+      "word": "EPIK",
+      "start": 48.45,
+      "end": 48.8,
+      "startFrame": 1454,
+      "endFrame": 1464
+    },
+    {
+      "word": "MC",
+      "start": 48.8,
+      "end": 49.15,
+      "startFrame": 1464,
+      "endFrame": 1474
+    },
+    {
+      "word": "KITA",
+      "start": 49.15,
+      "end": 49.5,
+      "startFrame": 1474,
+      "endFrame": 1485
+    },
+    {
+      "word": "YANG",
+      "start": 49.5,
+      "end": 49.8,
+      "startFrame": 1485,
+      "endFrame": 1494
+    },
+    {
+      "word": "MEMULAI",
+      "start": 49.8,
+      "end": 50.1,
+      "startFrame": 1494,
+      "endFrame": 1503
+    },
+    {
+      "word": "SEMUANYA",
+      "start": 50.1,
+      "end": 50.4,
+      "startFrame": 1503,
+      "endFrame": 1512
+    },
+    {
+      "word": "DARI",
+      "start": 50.4,
+      "end": 50.7,
+      "startFrame": 1512,
+      "endFrame": 1521
+    },
+    {
+      "word": "NOL",
+      "start": 50.7,
+      "end": 51.0,
+      "startFrame": 1521,
+      "endFrame": 1530
+    },
+    {
+      "word": "BESAR",
+      "start": 51.0,
+      "end": 51.3,
+      "startFrame": 1530,
+      "endFrame": 1539
+    },
+    {
+      "word": "HINGGA",
+      "start": 51.3,
+      "end": 51.6,
+      "startFrame": 1539,
+      "endFrame": 1548
+    },
+    {
+      "word": "AKHIRNYA",
+      "start": 51.6,
+      "end": 51.9,
+      "startFrame": 1548,
+      "endFrame": 1557
+    },
+    {
+      "word": "MERAIH",
+      "start": 51.9,
+      "end": 52.2,
+      "startFrame": 1557,
+      "endFrame": 1566
+    },
+    {
+      "word": "PUNCAK",
+      "start": 52.2,
+      "end": 52.5,
+      "startFrame": 1566,
+      "endFrame": 1575
+    },
+    {
+      "word": "KEJAYAAN",
+      "start": 52.5,
+      "end": 52.8,
+      "startFrame": 1575,
+      "endFrame": 1584
+    },
+    {
+      "word": "DI",
+      "start": 52.8,
+      "end": 53.1,
+      "startFrame": 1584,
+      "endFrame": 1593
+    },
+    {
+      "word": "DUNIA",
+      "start": 53.1,
+      "end": 53.4,
+      "startFrame": 1593,
+      "endFrame": 1602
+    },
+    {
+      "word": "GAME",
+      "start": 53.4,
+      "end": 53.7,
+      "startFrame": 1602,
+      "endFrame": 1611
+    }
+  ]
+}
