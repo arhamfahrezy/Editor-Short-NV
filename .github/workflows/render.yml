@@ -22,18 +22,13 @@ jobs:
           node-version: 20
           cache: 'npm'
 
-      - name: Install System Dependencies for Chrome Headless
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon-x11-0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2 fonts-noto-color-emoji fonts-freefont-ttf
-
-      - name: Install NPM Dependencies
+      - name: Install Dependencies
         run: npm ci || npm install
 
       - name: Render Video
         run: |
           mkdir -p out
-          npx remotion render MainComposition out/overgeared_new_short.mp4
+          npx remotion render MainComposition out/overgeared_new_short.mp4 --gl=angle
 
       - name: Upload Video Artifact
         uses: actions/upload-artifact@v4
